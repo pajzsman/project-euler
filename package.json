@@ -1,0 +1,29 @@
+{
+  "name": "project-euler",
+  "description": "REST API solutions for project euler problems",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pajzsman/project-euler.git"
+  },
+  "author": "Jozsef",
+  "contributor": [
+    {
+      "name": "Jozsef Palosi",
+      "email": "jozsef.palosi@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "request": "~2.21.0",
+    "restify": "~2.6.0",
+    "step": "~0.0.5"
+  },
+  "devDependencies": {
+    "mocha": "~ 2.2.5",
+    "should": "~ 7.1.0"
+  },
+  "engines": {
+    "node": ">= 0.12"
+  }
+}
